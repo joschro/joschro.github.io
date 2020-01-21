@@ -9,5 +9,6 @@ for I in Raspberry; do
   cat >> index.md <<EOF
 ## $I
 EOF
-  grep "# .*$I" *.md | sed "s/\(.*\.md\):# \(.*\)/[\2](\1)/g" >> index.md
+  grep "# .*$I" *[!index].md | sed "s/\(.*\.md\):# \(.*\)/[\2](\1)/g" | cat -n | sed "s/ *\([0-9]\)\t/\1. /g" >> index.md
+  echo >> index.md
 done
