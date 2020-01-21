@@ -1,6 +1,5 @@
 joschro's pages
 ===============
-contact <jo joschro de>
 
 Articles
 --------
