@@ -1,9 +1,8 @@
 joschro's pages
 ===============
-<jo joschro de>
+contact <jo joschro de>
 
 Articles
 --------
 [Articles](articles/)
-
 
