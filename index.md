@@ -4,5 +4,5 @@ contact <jo joschro de>
 
 Articles
 --------
-[Articles](articles/)
+[All articles](articles/)
 
