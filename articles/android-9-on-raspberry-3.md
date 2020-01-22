@@ -2,7 +2,7 @@
 
 from KonstaT: https://konstakang.com/devices/rpi3/LineageOS16.0/
 
-1. Get image lineage-16.0-20191222-UNOFFICIAL-KonstaKANG-rpi3.zip from https://www.androidfilehost.com/?fid=4349826312261681719
+1. Get image ```lineage-16.0-20191222-UNOFFICIAL-KonstaKANG-rpi3.zip``` from https://www.androidfilehost.com/?fid=4349826312261681719
 
 2. Unzip image: ```unzip lineage-16.0-20191222-UNOFFICIAL-KonstaKANG-rpi3.zip```
 
