@@ -20,6 +20,8 @@ Bookmarks
 
 [Apkpure](https://apkpure.com/) - [Download](https://apkpure.com/apkpure/com.apkpure.aegon/download?from=aegon)
 
+[Aurora Store](https://auroraoss.com/) - [Download](https://f-droid.org/packages/com.aurora.store/)
+
 [Aptoide](https://www.aptoide.com/)
 
 
