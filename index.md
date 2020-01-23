@@ -4,27 +4,32 @@ GitHub repos: <https://github.com/joschro?tab=repositories>
 
 Articles
 --------
-[All articles](articles/)
+[Go to articles](articles/)
 
 Bookmarks
 ---------
 
 ### Markup Languages
-[Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-[AsciiDoc](https://asciidoctor.org/docs/asciidoc-syntax-quick-reference)
+- [MarkDown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [GitHub MarkDown](https://guides.github.com/features/mastering-markdown/) / [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+- [AsciiDoc](https://asciidoctor.org/docs/asciidoc-syntax-quick-reference)
 
 ### Android
 #### App-Stores
-[F-Droid](https://f-droid.org/) - [Download](https://f-droid.org/FDroid.apk)
+- [F-Droid](https://f-droid.org/) - [Download](https://f-droid.org/FDroid.apk)
+- [Apkpure](https://apkpure.com/) - [Download](https://apkpure.com/apkpure/com.apkpure.aegon/download?from=aegon)
+- [Aurora Store](https://auroraoss.com/) - [Download](https://f-droid.org/packages/com.aurora.store/)
+- [Aptoide](https://www.aptoide.com/)
 
-[Apkpure](https://apkpure.com/) - [Download](https://apkpure.com/apkpure/com.apkpure.aegon/download?from=aegon)
-
-[Aurora Store](https://auroraoss.com/) - [Download](https://f-droid.org/packages/com.aurora.store/)
-
-[Aptoide](https://www.aptoide.com/)
+#### Camera Apps
+- [Open Camera](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera)
+- [A Better Camera](https://play.google.com/store/apps/details?id=com.almalence.opencam)
 
 #### Linux Distributions
-https://alt.fedoraproject.org/alt/
+- https://alt.fedoraproject.org/alt/
 
-[test](README.md)
+#### Home Automation
+##### Software
+- https://www.home-assistant.io/
+
+##### Hardware

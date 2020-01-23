@@ -1,6 +1,0 @@
-= joschro’s pages
-GitHub repos: https://github.com/joschro?tab=repositories
-
-== Articles
-1. link:articles/android-9-on-raspberry-3.md[How to install Android 9 on a Raspberry Pi 3]
-2. link:articles/android-9-on-raspberry-4.md[How to install Android 9 on a Raspberry Pi 4]
