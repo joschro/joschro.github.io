@@ -24,4 +24,5 @@ Bookmarks
 
 [Aptoide](https://www.aptoide.com/)
 
-
+#### Linux Distributions
+https://alt.fedoraproject.org/alt/

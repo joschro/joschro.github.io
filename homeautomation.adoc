@@ -1,0 +1,6 @@
+= Home Automation
+
+== Software
+https://www.home-assistant.io/
+
+== Hardware
