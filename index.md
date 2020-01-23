@@ -26,10 +26,10 @@ Bookmarks
 - [A Better Camera](https://play.google.com/store/apps/details?id=com.almalence.opencam)
 
 #### Linux Distributions
-- (https://alt.fedoraproject.org/alt/)
+- [https://alt.fedoraproject.org/alt/]
 
 #### Home Automation
 ##### Software
-- (https://www.home-assistant.io/)
+- [https://www.home-assistant.io/]
 
 ##### Hardware
