@@ -14,6 +14,9 @@ Bookmarks
 - [GitHub MarkDown](https://guides.github.com/features/mastering-markdown/) / [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 - [AsciiDoc](https://asciidoctor.org/docs/asciidoc-syntax-quick-reference)
 
+### Linux Distributions
+- [Fedora Alternative Architectures](https://alt.fedoraproject.org/alt/)
+
 ### Android
 #### App-Stores
 - [F-Droid](https://f-droid.org/) - [Download](https://f-droid.org/FDroid.apk)
@@ -25,11 +28,10 @@ Bookmarks
 - [Open Camera](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera)
 - [A Better Camera](https://play.google.com/store/apps/details?id=com.almalence.opencam)
 
-#### Linux Distributions
-- [Fedora Alternative Architectures](https://alt.fedoraproject.org/alt/)
+### Raspberry Pi
 
-#### Home Automation
-##### Software
+### Home Automation
+#### Software
 - [Home Assistant](https://www.home-assistant.io/)
 
-##### Hardware
+#### Hardware
