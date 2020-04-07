@@ -37,4 +37,9 @@ Bookmarks
 #### **Hardware**
 
 
+Finance
+-------
+![MSCI World](https://c.finanzen.net/chart.gfx?chartType=1&time=7&dateStart=&dateEnd=&height=500&width=960&symbol=169323&exchangeId=&countryId=&volumeUnit=0&gridGlobalOff=0&fill=0)
+
+
 # [Back Home](https://joschro.github.io/)
