@@ -39,11 +39,11 @@ Bookmarks
 
 Finance
 -------
-|[MSCI All Countries World](https://www.finanzen.net/etf/spdr-msci-acwi-etf-ie00b44z5b48)
-46
-![MSCI ACWI](https://c.finanzen.net/cst/FinanzenDe/chart.aspx?|[MSCI World](https://www.finanzen.net/etf/lyxor-msci-world-etf-fr0010315770)||
-|---|---|---|
+|---|---|---|---|
+|[MSCI All Countries World](https://www.finanzen.net/etf/spdr-msci-acwi-etf-ie00b44z5b48)|[MSCI World](https://www.finanzen.net/etf/lyxor-msci-world-etf-fr0010315770)||
 |![MSCI ACWI](https://c.finanzen.net/cst/FinanzenDe/chart.aspx?instruments=16,12930745,16,814&style=rd_mountain_week&period=OneWeek&timezone=W.%20Europe%20Standard%20Time)|![MSCI World](https://c.finanzen.net/cst/FinanzenDe/chart.aspx?instruments=16,2538768,16,814&style=rd_mountain_week&period=OneWeek&timezone=W.%20Europe%20Standard%20Time)||
+|[STOX Europe 600](https://www.finanzen.net/etf/ishares-stoxx-europe-600-etf-de0002635307)![STOXX Europe 600](https://c.finanzen.net/cst/FinanzenDe/chart.aspx?instruments=16,1814262,16,814&style=rd_mountain_week&period=OneWeek&timezone=W.%20Europe%20Standard%20Time)|[MSCI Europe](https://www.finanzen.net/etf/hsbc-msci-europe-etf-ie00b5bd5k76)![MSCI Europe](https://c.finanzen.net/cst/FinanzenDe/chart.aspx?instruments=16,11306992,16,814&style=rd_mountain_week&period=OneWeek&timezone=W.%20Europe%20Standard%20Time)|[MSCI EMU](https://www.finanzen.net/etf/ubs-etf-msci-emu-etf-a-lu0147308422)![MSCI EMU](https://c.finanzen.net/cst/FinanzenDe/chart.aspx?instruments=16,1429074,16,814&style=rd_mountain_week&period=OneWeek&timezone=W.%20Europe%20Standard%20Time)|[MSCI EMU](https://www.finanzen.net/etf/ubs-etf-msci-emu-etf-a-lu0147308422)![MSCI EMU](https://c.finanzen.net/cst/FinanzenDe/chart.aspx?instruments=16,1429074,16,814&style=rd_mountain_week&period=OneWeek&timezone=W.%20Europe%20Standard%20Time)|
+
 
 ### [MSCI All Countries World](https://www.finanzen.net/etf/spdr-msci-acwi-etf-ie00b44z5b48)
 ![MSCI ACWI](https://c.finanzen.net/cst/FinanzenDe/chart.aspx?instruments=16,12930745,16,814&style=rd_mountain_week&period=OneWeek&timezone=W.%20Europe%20Standard%20Time)
