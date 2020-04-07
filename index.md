@@ -39,7 +39,9 @@ Bookmarks
 
 Finance
 -------
-![MSCI World](https://c.finanzen.net/chart.gfx?chartType=1&time=7&dateStart=&dateEnd=&height=500&width=960&symbol=169323&exchangeId=&countryId=&volumeUnit=0&gridGlobalOff=0&fill=0)
+### ![MSCI World](https://c.finanzen.net/chart.gfx?chartType=1&time=7&dateStart=&dateEnd=&height=500&width=960&symbol=169323&exchangeId=&countryId=&volumeUnit=0&gridGlobalOff=0&fill=0)
+
+### ![MSCI Europe](https://c.finanzen.net/cst/FinanzenDe/chart.aspx?instruments=16,11306992,16,814&style=rd_mountain_week&period=OneWeek&timezone=W.%20Europe%20Standard%20Time)
 
 
 # [Back Home](https://joschro.github.io/)
