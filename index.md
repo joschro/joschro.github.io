@@ -39,6 +39,7 @@ Bookmarks
 
 Finance
 -------
+|   |   |   |   |
 |---|---|---|---|
 |[MSCI All Countries World](https://www.finanzen.net/etf/spdr-msci-acwi-etf-ie00b44z5b48)|[MSCI World](https://www.finanzen.net/etf/lyxor-msci-world-etf-fr0010315770)||
 |![MSCI ACWI](https://c.finanzen.net/cst/FinanzenDe/chart.aspx?instruments=16,12930745,16,814&style=rd_mountain_week&period=OneWeek&timezone=W.%20Europe%20Standard%20Time)|![MSCI World](https://c.finanzen.net/cst/FinanzenDe/chart.aspx?instruments=16,2538768,16,814&style=rd_mountain_week&period=OneWeek&timezone=W.%20Europe%20Standard%20Time)||
