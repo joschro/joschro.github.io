@@ -39,9 +39,23 @@ Bookmarks
 
 Finance
 -------
-### ![MSCI World](https://c.finanzen.net/chart.gfx?chartType=1&time=7&dateStart=&dateEnd=&height=500&width=960&symbol=169323&exchangeId=&countryId=&volumeUnit=0&gridGlobalOff=0&fill=0)
+### MSCI ACWI
+![MSCI ACWI](https://c.finanzen.net/cst/FinanzenDe/chart.aspx?instruments=16,12930745,16,814&style=rd_mountain_week&period=OneWeek&timezone=W.%20Europe%20Standard%20Time)
 
-### ![MSCI Europe](https://c.finanzen.net/cst/FinanzenDe/chart.aspx?instruments=16,11306992,16,814&style=rd_mountain_week&period=OneWeek&timezone=W.%20Europe%20Standard%20Time)
+### MSCI World
+![MSCI World](https://c.finanzen.net/cst/FinanzenDe/chart.aspx?instruments=16,2538768,16,814&style=rd_mountain_week&period=OneWeek&timezone=W.%20Europe%20Standard%20Time)
+
+### MSCI Europe
+![MSCI Europe](https://c.finanzen.net/cst/FinanzenDe/chart.aspx?instruments=16,11306992,16,814&style=rd_mountain_week&period=OneWeek&timezone=W.%20Europe%20Standard%20Time)
+
+### MSCI EMU
+![MSCI EMU](https://c.finanzen.net/cst/FinanzenDe/chart.aspx?instruments=16,1429074,16,814&style=rd_mountain_week&period=OneWeek&timezone=W.%20Europe%20Standard%20Time)
+
+### STOXX Europe 600
+![STOXX Europe 600](https://c.finanzen.net/cst/FinanzenDe/chart.aspx?instruments=16,1814262,16,814&style=rd_mountain_week&period=OneWeek&timezone=W.%20Europe%20Standard%20Time)
+
+### DAX
+![DAX](https://c.finanzen.net/cst/FinanzenDe/chart.aspx?instruments=16,20028815,16,814&style=rd_mountain_week&period=OneWeek&timezone=W.%20Europe%20Standard%20Time)
 
 
 # [Back Home](https://joschro.github.io/)
