@@ -47,8 +47,5 @@ Finance
 [CureVac](https://www.finanzen.net/aktien/curevac-aktie)![CureVac](https://c.finanzen.net/chart.gfx?chartType=1&time=600&height=500&width=960&symbol=NL0015436031&exchangeId=2&volumeUnit=1&gridGlobalOff=0)|[BioNTech](https://www.finanzen.net/aktien/biontech-aktie)![BioNTech](https://c.finanzen.net/chart.gfx?chartType=1&time=10000&height=500&width=960&symbol=US09075V1026&exchangeId=2&volumeUnit=1&gridGlobalOff=0)|[Wirecard](https://www.finanzen.net/aktien/wirecard-aktie)![Wirecard](https://c.finanzen.net/chart.gfx?chartType=1&time=10000&height=500&width=960&symbol=DE0007472060&exchangeId=2&volumeUnit=1&gridGlobalOff=0)
 
 
-<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/1272987/charts/1?bgcolor=%23ffffff&color=%23d62020&days=7&dynamic=true&type=line"></iframe>
-
-
 
 # [Back Home](https://joschro.github.io/)
