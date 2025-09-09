@@ -43,7 +43,7 @@ Finance
 <h2>Last year</h2>
 <div style="overflow-x:auto;">
   <table style="border-collapse: collapse; width: 100%; min-width: 600px;" border="1">
-    <body>
+    <tbody>
       <tr>
         <td>
           MSCI All Countries World<br>
@@ -225,7 +225,7 @@ Finance
         <th>3</th>
       </tr>
     </thead>
-    <body>
+    <tbody>
       <tr>
         <td>
           <br>
