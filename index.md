@@ -90,19 +90,72 @@ Finance
         </td>
       </tr>
       <tr>
-        <td>[MSCI Europe](https://www.finanzen.net/etf/hsbc-msci-europe-etf-ie00b5bd5k76)![MSCI Europe](https://c.finanzen.net/Chart.axd?charttype=FundPriceChart&isin=IE00B5BD5K76&months=1)</td>
-        <td>[MSCI EMU](https://www.finanzen.net/etf/ubs-etf-msci-emu-etf-a-lu0147308422)![MSCI EMU](https://c.finanzen.net/Chart.axd?charttype=FundPriceChart&isin=LU0147308422&months=1)</td>
-        <td>[DAX](https://www.finanzen.net/etf/xtrackers-dax-income-etf-1d-lu0838782315)![DAX](https://c.finanzen.net/Chart.axd?charttype=FundPriceChart&isin=LU0838782315&months=1)</td>
+        <td>
+          MSCI Europe<br>
+          <a href="https://www.finanzen.net/etf/hsbc-msci-europe-etf-ie00b5bd5k76" target="_blank">
+            <img src="https://c.finanzen.net/Chart.axd?charttype=FundPriceChart&isin=IE00B5BD5K76&months=1" alt="MSCI Europe" width="33%">
+          </a>
+        </td>
+        <td>
+          MSCI EMU<br>
+          <a href="https://www.finanzen.net/etf/ubs-etf-msci-emu-etf-a-lu0147308422" target="_blank">
+            <img src="https://c.finanzen.net/Chart.axd?charttype=FundPriceChart&isin=LU0147308422&months=1" alt="MSCI EMU" width="33%">
+          </a>
+        </td>
+        <td>
+          DAX<br>
+          <a href="https://www.finanzen.net/etf/xtrackers-dax-income-etf-1d-lu0838782315" target="_blank">
+            <img src="https://c.finanzen.net/Chart.axd?charttype=FundPriceChart&isin=LU0838782315&months=1" alt="DAX" width="33%">
+          </a>
+        </td>
       </tr>
       <tr>
-        <td>[Dow Jones](https://www.finanzen.net/index/dow_jones)![Dow Jones](https://c.finanzen.net/chart.gfx?chartType=1&time=100&dateStart=&dateEnd=&height=500&width=960&symbol=DJI.DJ&exchangeId=101&countryId=840&volumeUnit=0&gridGlobalOff=0&fill=0)</td>
-        <td>[EUR/USD](https://www.finanzen.net/devisen/dollar/chart)![EUR/USD](https://c.finanzen.net/cst/FinanzenDe/chart.aspx?instruments=1,946681,148,333&style=line_year&period=OneWeek&timezone=W.%20Europe%20Standard%20Time)</td>
-        <td>[IBM](https://www.finanzen.net/aktien/ibm-aktie)![IBM](https://c.finanzen.net/chart.gfx?chartType=1&time=100&height=500&width=960&symbol=US4592001014&exchangeId=2&volumeUnit=1&gridGlobalOff=0)</td>
+        <td>
+          Dow Jones<br>
+          <a href="https://www.finanzen.net/index/dow_jones" target="_blank">
+            <img src="https://c.finanzen.net/chart.gfx?chartType=1&time=100&dateStart=&dateEnd=&height=500&width=960&symbol=DJI.DJ&exchangeId=101&countryId=840&volumeUnit=0&gridGlobalOff=0&fill=0" alt="Dow Jones" width="33%">
+          </a>
+        </td>
+        <td>
+          EUR/USD<br>
+          <a href="https://www.finanzen.net/devisen/dollar/chart" target="_blank">
+            <img src="https://c.finanzen.net/cst/FinanzenDe/chart.aspx?instruments=1,946681,148,333&style=line_year&period=OneWeek&timezone=W.%20Europe%20Standard%20Time" alt="EUR/USD" width="33%">
+          </a>
+        </td>
+        <td>
+          IBM<br>
+          <a href="https://www.finanzen.net/aktien/ibm-aktie" target="_blank">
+            <img src="https://c.finanzen.net/chart.gfx?chartType=1&time=100&height=500&width=960&symbol=US4592001014&exchangeId=2&volumeUnit=1&gridGlobalOff=0" alt="IBM" width="33%">
+          </a>
+        </td>
       </tr>
       <tr>
-        <td>[CureVac](https://www.finanzen.net/aktien/curevac-aktie)![CureVac](https://c.finanzen.net/chart.gfx?chartType=1&time=100&height=500&width=960&symbol=NL0015436031&exchangeId=2&volumeUnit=1&gridGlobalOff=0)</td>
-        <td>[BioNTech](https://www.finanzen.net/aktien/biontech-aktie)![BioNTech](https://c.finanzen.net/chart.gfx?chartType=1&time=100&height=500&width=960&symbol=US09075V1026&exchangeId=2&volumeUnit=1&gridGlobalOff=0)</td>
-        <td>[Wirecard](https://www.finanzen.net/aktien/wirecard-aktie)![Wirecard](https://c.finanzen.net/chart.gfx?chartType=1&time=100&height=500&width=960&symbol=DE0007472060&exchangeId=2&volumeUnit=1&gridGlobalOff=0)</td>
+        <td>
+          CureVac<br>
+          <a href="https://www.finanzen.net/aktien/curevac-aktie" target="_blank">
+            <img src="https://c.finanzen.net/chart.gfx?chartType=1&time=100&height=500&width=960&symbol=NL0015436031&exchangeId=2&volumeUnit=1&gridGlobalOff=0" alt="CureVac" width="33%">
+          </a>
+        </td>
+        <td>
+          BioNTech<br>
+          <a href="https://www.finanzen.net/aktien/biontech-aktie" target="_blank">
+            <img src="https://c.finanzen.net/chart.gfx?chartType=1&time=100&height=500&width=960&symbol=US09075V1026&exchangeId=2&volumeUnit=1&gridGlobalOff=0" alt="BioNTech" width="33%">
+          </a>
+        </td>
+        <td>
+          Wirecard<br>
+          <a href="https://www.finanzen.net/aktien/wirecard-aktie" target="_blank">
+            <img src="https://c.finanzen.net/chart.gfx?chartType=1&time=100&height=500&width=960&symbol=DE0007472060&exchangeId=2&volumeUnit=1&gridGlobalOff=0" alt="Wirecard" width="33%">
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <br>
+          <a href="" target="_blank">
+            <img src="" alt="" width="33%">
+          </a>
+        </td>
       </tr>
     </tbody>
   </table>
