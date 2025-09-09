@@ -61,13 +61,6 @@ Finance
 
 <div style="overflow-x:auto;">
   <table style="border-collapse: collapse; width: 100%; min-width: 600px;" border="1">
-    <thead>
-      <tr>
-        <th>1</th>
-        <th>2</th>
-        <th>3</th>
-      </tr>
-    </thead>
     <tbody>
       <tr>
         <td>
@@ -149,7 +142,20 @@ Finance
           </a>
         </td>
       </tr>
+  </table>
+</div>
+
+<div>
+  <table>
+    <thead>
       <tr>
+        <th>1</th>
+        <th>2</th>
+        <th>3</th>
+      </tr>
+    </thead>
+    <body>
+            <tr>
         <td>
           <br>
           <a href="" target="_blank">
@@ -160,6 +166,5 @@ Finance
     </tbody>
   </table>
 </div>
-
 
 # [Back Home](https://joschro.github.io/)
