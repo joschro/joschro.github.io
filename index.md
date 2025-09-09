@@ -41,15 +41,8 @@ Bookmarks
 Finance
 -------
 <h2>Last year</h2>
-<div>
-  <table>
-    <thead>
-      <tr>
-        <th>1</th>
-        <th>2</th>
-        <th>3</th>
-      </tr>
-    </thead>
+<div style="overflow-x:auto;">
+  <table style="border-collapse: collapse; width: 100%; min-width: 600px;" border="1">
     <body>
       <tr>
         <td>
