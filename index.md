@@ -216,8 +216,8 @@ Finance
 </div>
 
 <h2>Template</h2>
-<div>
-  <table>
+<div style="overflow-x:auto;">
+  <table style="border-collapse: collapse; width: 100%; min-width: 600px;" border="1">
     <thead>
       <tr>
         <th>1</th>
