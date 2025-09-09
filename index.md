@@ -70,9 +70,9 @@ Finance
     </thead>
     <tbody>
       <tr>
-        <td>[MSCI All Countries World](https://www.finanzen.net/etf/spdr-msci-acwi-etf-ie00b44z5b48)![MSCI ACWI](https://c.finanzen.net/Chart.axd?charttype=FundPriceChart&isin=IE00B44Z5B48&months=1)</td>
-        <td>[MSCI World](https://www.finanzen.net/etf/lyxor-msci-world-etf-fr0010315770)![MSCI World](https://c.finanzen.net/Chart.axd?charttype=FundPriceChart&isin=FR0010315770&months=1)</td>
-        <td>[STOX Europe 600](https://www.finanzen.net/etf/ishares-stoxx-europe-600-etf-de0002635307)![STOXX Europe 600](https://c.finanzen.net/Chart.axd?charttype=FundPriceChart&isin=DE0002635307&months=1)</td>
+        <td><a href="https://www.finanzen.net/etf/spdr-msci-acwi-etf-ie00b44z5b48" target="_blank">MSCI All Countries World</a><img src="https://c.finanzen.net/Chart.axd?charttype=FundPriceChart&isin=IE00B44Z5B48&months=1" alt="MSCI ACWI" width="50"></td>
+        <td><a href="https://www.finanzen.net/etf/lyxor-msci-world-etf-fr0010315770" target="_blank">MSCI World</a><img src="https://c.finanzen.net/Chart.axd?charttype=FundPriceChart&isin=FR0010315770&months=1" alt="MSCI World" width="50"></td>
+        <td><a href="https://www.finanzen.net/etf/ishares-stoxx-europe-600-etf-de0002635307" target="_blank">STOX Europe 600</a><img src="https://c.finanzen.net/Chart.axd?charttype=FundPriceChart&isin=DE0002635307&months=1" alt="STOXX Europe 600" width="50"></td>
       </tr>
       <tr>
         <td>[MSCI Europe](https://www.finanzen.net/etf/hsbc-msci-europe-etf-ie00b5bd5k76)![MSCI Europe](https://c.finanzen.net/Chart.axd?charttype=FundPriceChart&isin=IE00B5BD5K76&months=1)</td>
