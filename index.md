@@ -73,19 +73,19 @@ Finance
         <td>
           MSCI All Countries World<br>
           <a href="https://www.finanzen.net/etf/spdr-msci-acwi-etf-ie00b44z5b48" target="_blank">
-            <img src="https://c.finanzen.net/Chart.axd?charttype=FundPriceChart&isin=IE00B44Z5B48&months=1" alt="MSCI ACWI" width="33%">
+            <img src="https://c.finanzen.net/Chart.axd?charttype=FundPriceChart&isin=IE00B44Z5B48&months=1" alt="MSCI ACWI" width="100%">
           </a>
         </td>
         <td>
           MSCI World<br>
           <a href="https://www.finanzen.net/etf/lyxor-msci-world-etf-fr0010315770" target="_blank">
-            <img src="https://c.finanzen.net/Chart.axd?charttype=FundPriceChart&isin=FR0010315770&months=1" alt="MSCI World" width="33%">
+            <img src="https://c.finanzen.net/Chart.axd?charttype=FundPriceChart&isin=FR0010315770&months=1" alt="MSCI World" width="100%">
           </a>
         </td>
         <td>
           STOX Europe 600<br>
           <a href="https://www.finanzen.net/etf/ishares-stoxx-europe-600-etf-de0002635307" target="_blank">
-            <img src="https://c.finanzen.net/Chart.axd?charttype=FundPriceChart&isin=DE0002635307&months=1" alt="STOXX Europe 600" width="33%">
+            <img src="https://c.finanzen.net/Chart.axd?charttype=FundPriceChart&isin=DE0002635307&months=1" alt="STOXX Europe 600" width="100%">
           </a>
         </td>
       </tr>
@@ -93,19 +93,19 @@ Finance
         <td>
           MSCI Europe<br>
           <a href="https://www.finanzen.net/etf/hsbc-msci-europe-etf-ie00b5bd5k76" target="_blank">
-            <img src="https://c.finanzen.net/Chart.axd?charttype=FundPriceChart&isin=IE00B5BD5K76&months=1" alt="MSCI Europe" width="33%">
+            <img src="https://c.finanzen.net/Chart.axd?charttype=FundPriceChart&isin=IE00B5BD5K76&months=1" alt="MSCI Europe" width="100%">
           </a>
         </td>
         <td>
           MSCI EMU<br>
           <a href="https://www.finanzen.net/etf/ubs-etf-msci-emu-etf-a-lu0147308422" target="_blank">
-            <img src="https://c.finanzen.net/Chart.axd?charttype=FundPriceChart&isin=LU0147308422&months=1" alt="MSCI EMU" width="33%">
+            <img src="https://c.finanzen.net/Chart.axd?charttype=FundPriceChart&isin=LU0147308422&months=1" alt="MSCI EMU" width="100%">
           </a>
         </td>
         <td>
           DAX<br>
           <a href="https://www.finanzen.net/etf/xtrackers-dax-income-etf-1d-lu0838782315" target="_blank">
-            <img src="https://c.finanzen.net/Chart.axd?charttype=FundPriceChart&isin=LU0838782315&months=1" alt="DAX" width="33%">
+            <img src="https://c.finanzen.net/Chart.axd?charttype=FundPriceChart&isin=LU0838782315&months=1" alt="DAX" width="100%">
           </a>
         </td>
       </tr>
@@ -113,19 +113,19 @@ Finance
         <td>
           Dow Jones<br>
           <a href="https://www.finanzen.net/index/dow_jones" target="_blank">
-            <img src="https://c.finanzen.net/chart.gfx?chartType=1&time=100&dateStart=&dateEnd=&height=500&width=960&symbol=DJI.DJ&exchangeId=101&countryId=840&volumeUnit=0&gridGlobalOff=0&fill=0" alt="Dow Jones" width="33%">
+            <img src="https://c.finanzen.net/chart.gfx?chartType=1&time=100&dateStart=&dateEnd=&height=500&width=960&symbol=DJI.DJ&exchangeId=101&countryId=840&volumeUnit=0&gridGlobalOff=0&fill=0" alt="Dow Jones" width="100%">
           </a>
         </td>
         <td>
           EUR/USD<br>
           <a href="https://www.finanzen.net/devisen/dollar/chart" target="_blank">
-            <img src="https://c.finanzen.net/cst/FinanzenDe/chart.aspx?instruments=1,946681,148,333&style=line_year&period=OneWeek&timezone=W.%20Europe%20Standard%20Time" alt="EUR/USD" width="33%">
+            <img src="https://c.finanzen.net/cst/FinanzenDe/chart.aspx?instruments=1,946681,148,333&style=line_year&period=OneWeek&timezone=W.%20Europe%20Standard%20Time" alt="EUR/USD" width="100%">
           </a>
         </td>
         <td>
           IBM<br>
           <a href="https://www.finanzen.net/aktien/ibm-aktie" target="_blank">
-            <img src="https://c.finanzen.net/chart.gfx?chartType=1&time=100&height=500&width=960&symbol=US4592001014&exchangeId=2&volumeUnit=1&gridGlobalOff=0" alt="IBM" width="33%">
+            <img src="https://c.finanzen.net/chart.gfx?chartType=1&time=100&height=500&width=960&symbol=US4592001014&exchangeId=2&volumeUnit=1&gridGlobalOff=0" alt="IBM" width="100%">
           </a>
         </td>
       </tr>
@@ -133,19 +133,19 @@ Finance
         <td>
           CureVac<br>
           <a href="https://www.finanzen.net/aktien/curevac-aktie" target="_blank">
-            <img src="https://c.finanzen.net/chart.gfx?chartType=1&time=100&height=500&width=960&symbol=NL0015436031&exchangeId=2&volumeUnit=1&gridGlobalOff=0" alt="CureVac" width="33%">
+            <img src="https://c.finanzen.net/chart.gfx?chartType=1&time=100&height=500&width=960&symbol=NL0015436031&exchangeId=2&volumeUnit=1&gridGlobalOff=0" alt="CureVac" width="100%">
           </a>
         </td>
         <td>
           BioNTech<br>
           <a href="https://www.finanzen.net/aktien/biontech-aktie" target="_blank">
-            <img src="https://c.finanzen.net/chart.gfx?chartType=1&time=100&height=500&width=960&symbol=US09075V1026&exchangeId=2&volumeUnit=1&gridGlobalOff=0" alt="BioNTech" width="33%">
+            <img src="https://c.finanzen.net/chart.gfx?chartType=1&time=100&height=500&width=960&symbol=US09075V1026&exchangeId=2&volumeUnit=1&gridGlobalOff=0" alt="BioNTech" width="100%">
           </a>
         </td>
         <td>
           Wirecard<br>
           <a href="https://www.finanzen.net/aktien/wirecard-aktie" target="_blank">
-            <img src="https://c.finanzen.net/chart.gfx?chartType=1&time=100&height=500&width=960&symbol=DE0007472060&exchangeId=2&volumeUnit=1&gridGlobalOff=0" alt="Wirecard" width="33%">
+            <img src="https://c.finanzen.net/chart.gfx?chartType=1&time=100&height=500&width=960&symbol=DE0007472060&exchangeId=2&volumeUnit=1&gridGlobalOff=0" alt="Wirecard" width="100%">
           </a>
         </td>
       </tr>
@@ -153,7 +153,7 @@ Finance
         <td>
           <br>
           <a href="" target="_blank">
-            <img src="" alt="" width="33%">
+            <img src="" alt="" width="100%">
           </a>
         </td>
       </tr>
